@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomek 😃</h1>
-<h3 align="center">A passionate Full Stack Designer 🦄 from Poland 🇵🇱.</h3>
+<h3 align="center">A passionate Full Stack Designer 🦄 from Poland.</h3>
 
 - 📫 How to reach me **contact@tomaszcupial.com**
 
